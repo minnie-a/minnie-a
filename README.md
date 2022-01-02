@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suisuiz
+- 👋 Hi, I’m @suisui
 - ​:heart:​ I’m interested in @vue, @javascript, @typescript, @react
 
 <!---

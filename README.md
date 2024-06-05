@@ -1,2 +1,2 @@
-- 👋 Hi, I’m vivian
+- 👋 Hi, I’m minnie
 - ​:heart:​ I’m interested in @react, @typescript.
